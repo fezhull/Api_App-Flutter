@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746006227563",
+    "project_id": "fastapp-adb33",
+    "storage_bucket": "fastapp-adb33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746006227563:android:652a1f821f7306060a1f2e",
+        "android_client_info": {
+          "package_name": "com.example.slack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746006227563-vqv1nlrthpkdmn91hh51hl8eiu1fnvcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6yDNq6gGvORKYMJHsOm-5ExKmuhQO6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746006227563-vqv1nlrthpkdmn91hh51hl8eiu1fnvcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
